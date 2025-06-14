@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou [Seu Nome]</h1>
+<h1 align="center">Olá! Eu sou Julia</h1>
 <h3 align="center">Estudante de Ciência da Computação | Foco em Desenvolvimento Web</h3>
 
 <p align="center">
