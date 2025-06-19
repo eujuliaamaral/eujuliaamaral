@@ -29,4 +29,4 @@ Tecnologias que estou aprendendo
 
 Contato
 Email: amariajulia204@gmail.com
-LinkedIn: linkedin.com/in/seu-perfil
+
