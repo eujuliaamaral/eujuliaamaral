@@ -3,8 +3,7 @@
 👩‍🎓 Estudante de **Ciência da Computação**  
 💻 Foco em **desenvolvimento front-end**  
 ⚡ Experiência com **HTML, CSS, JavaScript, React, Next.js, PHP e C++**  
-🚀 Sempre aprendendo e explorando novas tecnologias  
-🎨 Gosto de unir criatividade e programação para criar projetos interativos e fofos ✨  
+🚀 Sempre aprendendo e explorando novas tecnologias    
 
 ---
 
