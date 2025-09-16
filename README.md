@@ -38,5 +38,4 @@
 
 ---
 
-✨ Obrigada por visitar meu perfil!  
-Dá uma olhadinha nos meus projetos e repositórios 🚀
+✨ Obrigada por visitar meu perfil! 
