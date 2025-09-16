@@ -1,4 +1,4 @@
-# 💜 Sobre Mim:
+# Sobre Mim:
 
 👩‍🎓 Estudante de **Ciência da Computação**  
 💻 Foco em **desenvolvimento front-end**  
