@@ -1,4 +1,4 @@
-# Olá, eu sou a Júlia!
+# Olá, eu sou a Júlia ✨
 
 🎓 Estudante de **Ciência da Computação**  
 💻 Desenvolvedora com foco em **Front-end**  
@@ -10,8 +10,8 @@
 ## 📊 Estatísticas do GitHub
 <div align="center">
   <a href="https://github.com/eujuliaamaral">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eujuliaamaral&show_icons=true&theme=tokyonight&locale=pt-br&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eujuliaamaral&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eujuliaamaral&show_icons=true&theme=rose_pine&hide_title=true&locale=pt-br&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eujuliaamaral&layout=compact&langs_count=7&theme=rose_pine&hide_title=true&locale=pt-br"/>
   </a>
 </div>
 
@@ -35,7 +35,3 @@
 - 💌 [Email](mailto:amariajulia204@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/júlia-amaral-553220355)  
 - 🐱 [GitHub](https://github.com/eujuliaamaral)  
-
----
-
-✨ Obrigada por visitar meu perfil! 
