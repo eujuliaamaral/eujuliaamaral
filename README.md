@@ -1,9 +1,12 @@
-# Olá, eu sou a Júlia.
+<h1 align="center">✨ Olá, eu sou a Júlia ✨</h1>
 
-🎓 Estudante de **Ciência da Computação**  
-💻 Desenvolvedora com foco em **Front-end**  
-🚀 Explorando **React, Next.js e Node.js**  
-🌱 Sempre aprendendo e evoluindo no mundo da tecnologia  
+<p align="center">
+  🎓 Estudante de <b>Ciência da Computação</b> <br>
+  💻 Focada em <b>desenvolvimento Front-end</b> <br>
+  🚀 Explorando <b>React, Next.js e Node.js</b> <br>
+  🌱 Sempre aprendendo e evoluindo na área de tecnologia
+</p>
+
 
 ---
 
