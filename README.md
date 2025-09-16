@@ -1,4 +1,4 @@
-<h1 align="center">✨ Olá, eu sou a Júlia ✨</h1>
+<h1 align="center"> Olá, eu sou a Júlia.</h1>
 
 <p align="center">
   🎓 Estudante de <b>Ciência da Computação</b> <br>
