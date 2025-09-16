@@ -1,4 +1,4 @@
-# Sobre Mim:
+# 💜 Sobre Mim:
 
 👩‍🎓 Estudante de **Ciência da Computação**  
 💻 Foco em **desenvolvimento front-end**  
@@ -35,7 +35,7 @@
 
 <div align="center">
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=eujuliaamaral&show_icons=true&theme=tokyonight)  
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=eujuliaamaral&show_icons=true&theme=tokyonight&custom_title=Júlia's%20GitHub%20Stats)  
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=eujuliaamaral&layout=compact&langs_count=8&theme=tokyonight)
 
 </div>
