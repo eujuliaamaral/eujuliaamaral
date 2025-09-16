@@ -1,4 +1,4 @@
-# Olá, eu sou a Júlia ✨
+# Olá, eu sou a Júlia!
 
 🎓 Estudante de **Ciência da Computação**  
 💻 Desenvolvedora com foco em **Front-end**  
