@@ -5,14 +5,6 @@ Estudante de **Ciência da Computação**, com foco em desenvolvimento **fronten
 
 ---
 
-# 🌐 Contatos:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/júlia-amaral-553220355)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eujuliaamaral)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amariajulia204@gmail.com)  
-
----
-
 ## 🛠️ Stack
 
 <p align="center">
@@ -34,7 +26,6 @@ Estudante de **Ciência da Computação**, com foco em desenvolvimento **fronten
 
 <div align="center">
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=eujuliaamaral&show_icons=true&theme=tokyonight&custom_title=Júlia's%20GitHub%20Stats)  
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=eujuliaamaral&layout=compact&langs_count=8&theme=tokyonight)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=eujuliaamaral&show_icons=true&theme=tokyonight&custom_title=Júlia's%20GitHub%20Stats) |![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=eujuliaamaral&layout=compact&langs_count=8&theme=tokyonight)
 
 </div>
