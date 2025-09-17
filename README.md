@@ -5,7 +5,7 @@ Estudante de **Ciência da Computação**, com foco em desenvolvimento **fronten
 
 ---
 
-## 🛠️ Stack
+## 🛠️ Stacks:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html" width="60" />
