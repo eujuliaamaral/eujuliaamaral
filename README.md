@@ -1,6 +1,5 @@
 # Júlia Amaral
 
----
 
 Estudante de **Ciência da Computação**, com foco em desenvolvimento **frontend.**
 
