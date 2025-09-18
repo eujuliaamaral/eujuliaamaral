@@ -27,6 +27,7 @@ Estudante de **Ciência da Computação**, com foco em desenvolvimento **Web.**
 
 <div align="center">
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=eujuliaamaral&show_icons=true&theme=tokyonight&custom_title=Júlia's%20GitHub%20Stats) ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=eujuliaamaral&layout=compact&langs_count=8&theme=tokyonight)
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=eujuliaamaral&show_icons=true&theme=tokyonight&custom_title=Júlia's%20GitHub%20Stats"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eujuliaamaral&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
