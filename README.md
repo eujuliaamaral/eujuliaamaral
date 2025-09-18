@@ -25,8 +25,6 @@ Estudante de **Ciência da Computação**, com foco em desenvolvimento **Web.**
 
 # 📊 Estatísticas do GitHub
 
-# 📊 Estatísticas do GitHub
-
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eujuliaamaral&show_icons=true&theme=tokyonight&custom_title=Júlia's%20GitHub%20Stats"/>
