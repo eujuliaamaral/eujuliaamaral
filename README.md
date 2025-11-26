@@ -3,9 +3,6 @@
 
 Estudante de **Ciência da Computação**, com foco em desenvolvimento **Web.**
 
----
-
-## 🛠️ Stacks:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html" width="60" />
@@ -19,5 +16,3 @@ Estudante de **Ciência da Computação**, com foco em desenvolvimento **Web.**
   <img src="https://skillicons.dev/icons?i=git" width="60" />
   <img src="https://skillicons.dev/icons?i=vercel" width="60" />
 </p>
-
----
