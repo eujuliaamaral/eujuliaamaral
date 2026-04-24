@@ -1,4 +1,4 @@
-<h1 align="center">Júlia Amaral 👋</h1>
+<h1 align="center">Júlia Amaral </h1>
 <p align="center">Computer Science Student • Web & Data</p>
 
 ###
