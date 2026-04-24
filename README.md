@@ -30,7 +30,6 @@
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git" height="60" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" />
 </div>
 
 ###
