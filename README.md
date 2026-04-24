@@ -1,18 +1,33 @@
-<h1 align="center">Hey 👋 What's Up? I'm Júlia</h1>
+<h1 align="center">Júlia Amaral 👋</h1>
+<p align="center">Computer Science Student • Web & Data</p>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="60" />
-  <img width="12" />
+  <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="60" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
+
+  <img width="20" />
+
+  <!-- Linguagens -->
+  <img src="https://skillicons.dev/icons?i=js" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="60" />
-  <img width="12" />
+
+  <img width="20" />
+
+  <!-- Deploy -->
+  <img src="https://skillicons.dev/icons?i=vercel" height="60" />
+
+  <img width="20" />
+
+  <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git" height="60" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="60" />
@@ -20,10 +35,13 @@
 
 ###
 
-
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&style=for-the-badge" height="25" />
+  <a href="https://www.linkedin.com/in/júlia-amaral-553220355/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:amariajulia204@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
 
 ###
