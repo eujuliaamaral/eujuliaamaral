@@ -1,13 +1,5 @@
 <h1 align="center">Hey 👋 What's Up? I'm Júlia</h1>
 
-<p align="center">
-💻 Computer Science student focused on web development, data and system fundamentals
-</p>
-
-<p align="center">
-🚀 Learning by building • 🧠 Focused on logic and real-world problem solving
-</p>
-
 ###
 
 <div align="center">
